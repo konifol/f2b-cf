@@ -1,11 +1,11 @@
 <?php
 
-define ('SLACK_HOOK', 'https://hooks.slack.com/services/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');
+define ('SLACK_HOOK', '');
 
-define ('IPABUSE_KEY', 'e8ca87be6cbd436c1bd7ac2b0799685879c4545c7e22b9e6e0a3a68b23a5de3925e8b21cf05af65a');
+define ('IPABUSE_KEY', '');
 
-define ('CF_ACCOUNT','algorithm.zet@gmail.com');
+define ('CF_ACCOUNT','');
 
-define ('CF_TOKEN','4b840b074ad24a17dc9ce325fab2f0ff5f4cb');
+define ('CF_TOKEN','');
 
-define ('CF_URL','https://api.cloudflare.com/client/v4/zones/3c2385ea433e5d0fa857fe35d7e7142b/firewall/rules/2412dee4ce4a469dbbfb9b8eab0e1f00');
+define ('CF_URL','');
